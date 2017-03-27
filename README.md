@@ -4,6 +4,7 @@
 
 ## Getting started
 
+
 In your *index.html*:
 
 ```html
