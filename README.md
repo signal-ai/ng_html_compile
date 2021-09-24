@@ -1,5 +1,7 @@
 # NgHtmlCompile
 
+**This module is no longer maintained**
+
 *ng-html-compile* is a simple directive for *Angualr JS* to bind and compile an Html fragment.
 
 ## Getting started
